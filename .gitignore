@@ -2,6 +2,8 @@ data/*.csv
 
 *.env
 
+*.db
+
 *.ipynb_checkpoints
 
 venv/
